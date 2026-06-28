@@ -5,9 +5,9 @@
 
 ##  Problem Statement
 
-Urban air quality deterioration is a critical public health challenge worldwide. Cities like **Lahore and Karachi** in Pakistan face severe smog crises — yet data-driven analysis of pollution patterns remains inaccessible to most people without technical expertise.
+Urban air quality deterioration is a critical public health challenge worldwide. Cities like **Lahore and Karachi** in Pakistan face severe smog crises , yet data-driven analysis of pollution patterns remains inaccessible to most people without technical expertise.
 
-This project analyzes a real-world air quality dataset (UCI Machine Learning Repository) containing **hourly sensor readings** from a significantly polluted urban area in Italy. Using **Amazon PartyRock's AI-powered Analyze Data feature**, this project demonstrates how natural language questions — without any coding — can generate accurate, actionable insights from complex environmental data.
+This project analyzes a real-world air quality dataset (UCI Machine Learning Repository) containing **hourly sensor readings** from a significantly polluted urban area in Italy. Using **Amazon PartyRock's AI-powered Analyze Data feature**, this project demonstrates how natural language questions , without any coding can generate accurate, actionable insights from complex environmental data.
 
 **Core Questions This Project Answers:**
 1. When is pollution at its worst — and why?
@@ -39,7 +39,7 @@ This project analyzes a real-world air quality dataset (UCI Machine Learning Rep
 
 ---
 
-##  Analysis — 10 Questions Asked to AI
+##  Analysis .. 10 Questions Asked to AI
 
 ### Q1: What is the average CO concentration across the dataset?
 **Result:** `2.36 mg/m³`
